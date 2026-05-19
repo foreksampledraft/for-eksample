@@ -1,0 +1,55 @@
+.subtitle{
+    font-style: italic;
+}
+
+ol{
+    line-height: 2;
+}
+
+article{
+    padding-top: 3rem;
+}
+
+hr{
+    margin-top:3rem;
+}
+
+small{
+    color:#666;
+}
+
+article{
+padding-top:3rem;
+}
+
+.subtitle{
+font-style:italic;
+margin-bottom:2rem;
+}
+
+section{
+margin-top:2rem;
+}
+
+h2{
+margin-top:3rem;
+}
+
+blockquote{
+font-style:italic;
+}
+
+.sans{
+font-size:1rem;
+color:#666;
+}
+
+hr{
+margin-top:3rem;
+}
+
+.newthought{
+font-variant:small-caps;
+}
+
+/**\
