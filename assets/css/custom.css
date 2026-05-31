@@ -52,4 +52,19 @@ margin-top:3rem;
 font-variant:small-caps;
 }
 
-/**\
+
+.site-footer{
+
+    margin-top:4rem;
+
+    padding:2rem;
+
+    border-top:1px solid #ddd;
+
+    background-image:url("../imgs/pattern.png");
+
+    background-repeat:no-repeat;
+
+    background-size:cover;
+
+}
