@@ -121,3 +121,10 @@ font-variant:small-caps;
     margin-top:1.5rem;
     color:#b7b4b4;
 }
+
+.footer-logo {
+    display: block;
+    width: 80px;      /* adjust size */
+    height: auto;
+    margin: 0 auto 1rem auto;
+}
