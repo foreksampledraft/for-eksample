@@ -53,21 +53,7 @@ font-variant:small-caps;
 }
 
 
-.site-footer{
 
-    margin-top:4rem;
-
-    padding:2rem;
-
-    border-top:1px solid #ddd;
-
-    background-image:url("../imgs/pattern.png");
-
-    background-repeat:no-repeat;
-
-    background-size:cover;
-
-}
 
 .issue-cover{
     border:3px solid white;
@@ -79,4 +65,42 @@ font-variant:small-caps;
     height:auto;
 
     margin:2rem auto;
+}
+
+.site-footer{
+    margin-top:4rem;
+    padding:2rem 0;
+    border-top:1px solid #ddd;
+    font-family:et-book, Palatino, serif;
+    font-size:0.95rem;
+}
+
+.footer-nav{
+    display:flex;
+    justify-content:center;
+    gap:2rem;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.footer-nav a{
+    text-decoration:none;
+    color:#ffffff;
+}
+
+.footer-nav a:hover{
+    text-decoration:underline;
+}
+
+.ig-icon svg{
+    width:20px;
+    height:20px;
+    fill:#d6cfcf;
+    vertical-align:middle;
+}
+
+.footer-meta{
+    text-align:center;
+    margin-top:1.5rem;
+    color:#b7b4b4;
 }
