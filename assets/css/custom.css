@@ -138,10 +138,7 @@ height: 140px;
 
 object-fit: cover;
 
-border: 2px solid white;
-box-shadow: 0 0 0 1px #ccc;
-
-flex-shrink: 0;
+/*border: 0px solid white;*/
 
 
 }
