@@ -124,7 +124,26 @@ font-variant:small-caps;
 
 .footer-logo {
     display: block;
-    width: 80px;      /* adjust size */
+    width: 60px;      /* adjust size */
     height: auto;
     margin: 0 auto 1rem auto;
 }
+
+
+
+.author-photo {
+width: 140px;
+height: 140px;
+
+
+object-fit: cover;
+
+border: 2px solid white;
+box-shadow: 0 0 0 1px #ccc;
+
+flex-shrink: 0;
+
+
+}
+
+
