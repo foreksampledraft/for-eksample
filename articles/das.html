@@ -121,12 +121,11 @@ Issue 01 · Surveillance
 <footer class="site-footer">
      <img src="../assets/imgs/logo.jpg" alt="For Eksample logo" class="footer-logo">
 
-    <nav class="footer-nav">
-        <a href="frontpage.html">Home</a>
-        <a href="#issues">Issues</a>
+   <nav class="footer-nav">
+        <a href="../main.html">Home</a>
+        <a href="../main.html#Issues">Issues</a>
         <a href="about.html">About</a>
         <a href="https://instagram.com/foreksample">Instagram</a>
-
       
     </nav>
 
@@ -139,14 +138,3 @@ Issue 01 · Surveillance
 </body>
 </html>
 
-<script>
-  document.querySelectorAll('sidenote').forEach((el, i) => {
-    const id = `sn-${i+1}`;
-    const html = `
-      <label for="${id}" class="margin-toggle sidenote-number"></label>
-      <input type="checkbox" id="${id}" class="margin-toggle"/>
-      <span class="sidenote">${el.innerHTML}</span>
-    `;
-    el.outerHTML = html;
-  });
-</script>
