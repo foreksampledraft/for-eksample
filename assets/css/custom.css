@@ -143,4 +143,8 @@ object-fit: cover;
 
 }
 
-
+.sidenote,
+.marginnote{
+    clear:right;
+    margin-bottom:1.5rem;
+}
