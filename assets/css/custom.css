@@ -148,3 +148,13 @@ object-fit: cover;
     clear:right;
     margin-bottom:1.5rem;
 }
+.heading{
+    font-size:5rem;
+    font-weight:normal;
+    letter-spacing:.08em;
+    color:#f5f5f5;
+
+    text-shadow:
+        2px 2px 0 #222,
+        4px 4px 0 #111;
+}
